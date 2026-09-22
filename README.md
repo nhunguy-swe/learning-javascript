@@ -101,6 +101,6 @@ node index.js
 
 ---
 
-## 📄 Giấy phép
+## Giấy phép
 
 Dự án này được thực hiện cho mục đích học tập cá nhân. Bạn có thể tham khảo, sử dụng lại code cho mục đích học tập.
